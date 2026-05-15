@@ -1,0 +1,1 @@
+import{i as e}from"./chunk-FQFHLQFH-BuQKK1g1.js";import{I as t}from"./chunk-GRVEB7DL-DQa1oAW1.js";var n=e((e,n)=>{let r;return n===`sandbox`&&(r=t(`#i`+e)),t(n===`sandbox`?r.nodes()[0].contentDocument.body:`body`).select(`[id="${e}"]`)},`getDiagramElement`);export{n as t};
